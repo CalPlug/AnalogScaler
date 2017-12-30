@@ -1,0 +1,44 @@
+Circuit: * C:\Users\Mike Klopfer\Desktop\GSR6.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+vernier = 0.25
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point.
+Trouble finding operating point....skipping operating point for Transient analysis.
+to 2e-008
+
+Date: Sun Dec 03 16:40:45 2017
+Total elapsed time: 0.920 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 22770
+traniter = 850
+tranpoints = 379
+accept = 350
+rejected = 556
+matrix size = 16
+fillins = 14
+solver = Normal
+Thread vector: 48.1/28.5[2] 5.3/3.5[2] 3.6/2.2[2] 0.3/0.8[1]  2592/500
+Matrix Compiler1: 3.75 KB object code size  1.4/0.8/[0.4]
+Matrix Compiler2: off  [0.5]/0.5/1.3
+
+
